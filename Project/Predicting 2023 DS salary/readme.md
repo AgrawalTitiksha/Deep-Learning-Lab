@@ -1,1 +1,1 @@
-Dataset: https://www.kaggle.com/code/jman576/predicting-2023-ds-salaries-with-svr/notebook
+Dataset: https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data
